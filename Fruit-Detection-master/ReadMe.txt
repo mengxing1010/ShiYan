@@ -1,0 +1,1 @@
+To run the code you must have the files featureVector.mat, findFeat.m, Dip_Final_Project.m, and the image library i.e Fruit Database that holds all the images in JPEG/PNG format. All of these files should be in a one folder and run the Dip_Final_Project.m file. If you want to change the images, go to line 6 in Dip_Final_Project.m and change the image that one would like to use.
